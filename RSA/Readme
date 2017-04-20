@@ -1,0 +1,10 @@
+
+HOW TO RUN:
+
+Update the parameters of n1, n2 and n3 in the file, which corresponds to the three expononents used in the RSA algorithm. 
+Also update the cipher texts available c1, c2 and c3 accordingly.
+Since it is a chinease remainder theorem attack. The exponent e=3 here. 
+
+If you need any help please reach out to me via my email erajaypal91@gmail.com
+
+Thanks
