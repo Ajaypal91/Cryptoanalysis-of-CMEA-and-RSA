@@ -74,6 +74,7 @@ In such a cryptosystem, the encryption key is public and differs from the decryp
 In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
 
 <h1>Solution </h1>
+
 ![alt text](Snapshots/8.png)
 
 <b>NOTE:</b> For more detailed explanation, please reach out to me at erajaypal91@gmail.com. 
